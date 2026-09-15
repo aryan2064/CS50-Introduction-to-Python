@@ -50,3 +50,7 @@ Solutions to the problem sets and final project for [CS50's Introduction to Prog
 ## Final Project
 
 [View Project](./project)
+
+## Certificate
+
+![CS50P](./CS50P.png)
